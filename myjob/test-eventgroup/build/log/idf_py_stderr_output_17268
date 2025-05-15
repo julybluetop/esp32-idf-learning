@@ -1,0 +1,23 @@
+CMake Error:
+  Running
+
+   'C:/Users/never/Desktop/ESP32/.espressif/tools/ninja/1.12.1/ninja.exe' '-C' 'C:/Users/never/Desktop/ESP32/esp32-idf-learning/myjob/test-eventgroup/build' '-t' 'recompact'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Error:
+  Running
+
+   'C:/Users/never/Desktop/ESP32/.espressif/tools/ninja/1.12.1/ninja.exe' '-C' 'C:/Users/never/Desktop/ESP32/esp32-idf-learning/myjob/test-eventgroup/build' '-t' 'restat' 'build.ninja'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

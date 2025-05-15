@@ -1,0 +1,13 @@
+{
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART",
+  "idf.espIdfPathWin": "c:\\Users\\never\\Desktop\\ESP32\\v5.2.5\\esp-idf",
+  "idf.pythonInstallPath": "c:\\Users\\never\\Desktop\\ESP32\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.toolsPathWin": "c:\\Users\\never\\Desktop\\ESP32\\.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  }
+}
